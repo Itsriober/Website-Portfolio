@@ -3,7 +3,6 @@ import {
   Facebook,
   Github,
   Instagram,
-  Email,
   ExternalLink,
 } from "lucide-react";
 
