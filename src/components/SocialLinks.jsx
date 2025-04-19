@@ -37,10 +37,10 @@ const socialLinks = [
     gradient: "from-[#0A66C2] to-[#0077B5]",
   },
   {
-    name: "Email",
-    displayName: "Email",
+    name: "TikTok",
+    displayName: "TikTok",
     subText: "@JstnHarmon",
-    icon: Email,
+    icon: TikTok,
     url: "mailto:jstnharmon02@gmail.com",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
